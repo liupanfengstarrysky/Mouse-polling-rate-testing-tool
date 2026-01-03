@@ -128,3 +128,13 @@ pip install -r requirements.txt
 
 # 3. 运行工具
 python mouse_polling_gui_pro.py
+
+### 打包步骤
+
+# 1. 安装 auto-py-to-exe tool
+pip install auto-py-to-exe
+
+# 2. 启动打包工具窗口
+python -m auto_py_to_exe
+
+
