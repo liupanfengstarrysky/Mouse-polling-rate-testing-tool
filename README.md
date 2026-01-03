@@ -7,7 +7,7 @@
 
 **专业级鼠标真实USB轮询率测试工具** - 突破浏览器限制，直接测量系统级原始输入数据
 
-![软件界面](https://via.placeholder.com/800x500/0f172a/ffffff?text=Mouse+Polling+Rate+Pro+Tester+GUI)
+![软件界面](image/MousePollingRoateTool.png)
 *专业GUI界面，实时显示轮询率数据与波形图*
 
 ---
