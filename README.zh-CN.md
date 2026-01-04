@@ -145,7 +145,7 @@ python -m auto_py_to_exe
 如果你只需要进行快速验证或分享测试结果，  
 也可以使用基于浏览器的测试工具：
 
-👉 https://starryring.com/toolbox/mouse/pollingrate/
+👉 https://starryring.com/toolbox/mouse/pollingrate/zh/
 
 > 说明：由于浏览器本身的限制，网页版无法访问 USB HID 层的原始数据。  
 > 如需获得准确的鼠标回报率测量结果，建议使用本桌面版工具。
