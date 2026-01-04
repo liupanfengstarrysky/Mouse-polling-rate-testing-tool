@@ -149,3 +149,13 @@ pip install auto-py-to-exe
 # 2. Launch the packaging GUI
 python -m auto_py_to_exe
 
+## 🌐 Online Testing Platform
+
+If you want a quick test without installing anything,  
+visit the online version:
+
+👉 https://starryring.com
+
+The desktop tool is recommended for precise measurements  
+and professional evaluations.
+
