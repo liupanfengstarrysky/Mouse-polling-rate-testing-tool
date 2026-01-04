@@ -1,6 +1,4 @@
 # 🐭 Mouse Polling Rate Pro Tester
-# 🐭 Mouse Polling Rate Pro Tester
-
 🌍 **Language**
 - [English](README.md)
 - [简体中文](README.zh-CN.md)
