@@ -133,7 +133,7 @@ This application provides:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/mouse-polling-rate-tester.git
+git clone https://github.com/liupanfengstarrysky/mouse-polling-rate-tester.git
 cd mouse-polling-rate-tester
 
 # 2. Install dependencies
