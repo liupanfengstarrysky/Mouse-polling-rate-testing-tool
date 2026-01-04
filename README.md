@@ -148,7 +148,7 @@ pip install auto-py-to-exe
 
 # 2. Launch the packaging GUI
 python -m auto_py_to_exe
-```bash
+```
 ### 🌐 Online Testing Platform
 
 If you want a quick test without installing anything,  
