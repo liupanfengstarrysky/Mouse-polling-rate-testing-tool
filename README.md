@@ -149,13 +149,11 @@ pip install auto-py-to-exe
 # 2. Launch the packaging GUI
 python -m auto_py_to_exe
 ```
-### 🌐 Online Testing Platform
+🔗 **Online Mouse Test (Web Version)**  
+For quick validation or sharing results, you can also use the browser-based tester:  
+👉 https://starryring.com/toolbox/mouse/pollingrate/
 
-If you want a quick test without installing anything,  
-visit the online version:
+> Note: Due to browser limitations, the web version cannot access raw USB HID data.
+> For accurate polling rate measurement, use this desktop tool.
 
-👉 https://starryring.com
-
-The desktop tool is recommended for precise measurements  
-and professional evaluations.
 
