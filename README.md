@@ -151,7 +151,7 @@ python -m auto_py_to_exe
 ```
 🔗 **Online Mouse Test (Web Version)**  
 For quick validation or sharing results, you can also use the browser-based tester:  
-👉 https://starryring.com/toolbox/mouse/pollingrate/
+👉 https://starryring.com/en/toolbox/mouse/pollingrate/
 
 > Note: Due to browser limitations, the web version cannot access raw USB HID data.
 > For accurate polling rate measurement, use this desktop tool.
